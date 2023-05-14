@@ -3,6 +3,8 @@ Steps to run the project:
 
 - install node
 
+- install yarn
+
 - install ruby
 
 - install rails using gem
